@@ -81,7 +81,7 @@ Distraction-Free-YouTube/
 <h3>1️⃣ Clone the Repository</h3>
 
 <pre>
-git clone https://github.com/yourusername/distraction-free-youtube.git
+git clone https://github.com/nikhilgupta7880/distraction-free-youtube.git
 </pre>
 
 <h3>2️⃣ Open the Project</h3>
